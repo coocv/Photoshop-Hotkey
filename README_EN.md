@@ -6,6 +6,8 @@
 
 Use keyboard shortcuts to become more productive while using Adobe Photoshop.
 
+read as [PDF](https://helpx.adobe.com/content/dam/help/en/photoshop/using/default-keyboard-shortcuts/photoshop-keyboard-shortcuts.pdf).
+
 ***Quick tips to remember:***
 
 - *You can customize the keyboard shortcuts in Photoshop on the desktop. See [Customize keyboard shortcuts](https://helpx.adobe.com/photoshop/using/customizing-keyboard-shortcuts.html).*
