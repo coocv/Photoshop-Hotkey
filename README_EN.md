@@ -1,6 +1,6 @@
 # Photoshop-Hotkey
 
-**[中文](README.md) | English**
+**English | [中文](README.md)**
 
 **Default keyboard shortcuts in Adobe Photoshop (desktop)**（All content is from:[Adobe.com](https://adobe.com)）
 
