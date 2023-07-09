@@ -4,9 +4,7 @@
 
 **Default keyboard shortcuts in Adobe Photoshop (desktop)**（All content is from:[Adobe.com](https://adobe.com)）
 
-Use keyboard shortcuts to become more productive while using Adobe Photoshop.
-
-read as [PDF](https://helpx.adobe.com/content/dam/help/en/photoshop/using/default-keyboard-shortcuts/photoshop-keyboard-shortcuts.pdf).
+Use keyboard shortcuts to become more productive while using Adobe Photoshop.(read as [PDF](https://helpx.adobe.com/content/dam/help/en/photoshop/using/default-keyboard-shortcuts/photoshop-keyboard-shortcuts.pdf).)
 
 ***Quick tips to remember:***
 
