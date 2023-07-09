@@ -9,8 +9,7 @@
 - *您可以在 Photoshop 桌面版中自定义键盘快捷键。请参阅[自定义键盘快捷键](https://helpx.adobe.com/cn/photoshop/using/customizing-keyboard-shortcuts.html)。*
 - 您可以在“键盘快捷键”对话框中查看、编辑和归纳键盘快捷键。要在 Photoshop 中查看键盘快捷键，请选择**编辑 > 键盘快捷键**，或使用以下键盘快捷键：
   - *Alt + Shift + Control + K (Win)*
-  - *Option + Shift + Command + K (Mac)
-    *
+  - *Option + Shift + Command + K (Mac)*
 
 ## 常用的快捷键
 
