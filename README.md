@@ -1,6 +1,7 @@
 # Photoshop-Hotkey
 
 **中文 | [English](README_EN.md)**
+
 **Photoshop默认键盘快捷键集合**（所有内容均来自Adobe.com）
 
 在 Adobe Photoshop 中，使用键盘快捷键可提高您的工作效率。
