@@ -1,4 +1,4 @@
-# Photoshop-Hotkey
+# Photoshop-keyboard-shortcuts
 
 **中文 | [English](README_EN.md)**
 
