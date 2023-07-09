@@ -1,3 +1,9 @@
+# Photoshop-Hotkey
+
+**[中文](README.md) | English**
+
+**Photoshop默认键盘快捷键集合**（所有内容均来自[Adobe.com](adobe.com)）
+
 Use keyboard shortcuts to become more productive while using Adobe Photoshop.
 
 ***Quick tips to remember:***
